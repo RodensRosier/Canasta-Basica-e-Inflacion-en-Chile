@@ -4,28 +4,29 @@
 ### Descripción del Proyecto
 
 ### Stack Tecnológico
-Lenguaje: Python 3.10
-Librerías de Análisis: Pandas, NumPy
-Visualización: Matplotlib, Seaborn, Tableau
-Entorno Cloud: Google Cloud Platform (BigQuery para procesamiento masivo)
+Lenguaje: Python 3.10 <br>
+• Librerías de Análisis: Pandas, NumPy <br>
+• Visualización: Tableau <br>
+• Entorno Cloud: Google Cloud Platform (GCP) <br>
+• BigQuery (Para procesamiento masivo)
 
 ### Metodología (Pipeline ETL)
-Extracción: Obtención de microdatos desde el portal de datos abiertos del INE Chile.
-Transformación (Limpieza):
-Tratamiento de valores nulos y registros atípicos (outliers).
-Normalización de variables de ingresos y categorías de ocupación.
-Análisis: Cálculo de la brecha salarial bruta y ajustada por horas trabajadas y nivel de instrucción.
+• Extracción: Obtención de microdatos desde el portal de datos abiertos del INE Chile. <br>
+• Transformación (Limpieza): <br>
+Tratamiento de valores nulos y registros atípicos (outliers). <br>
+Normalización de variables de ingresos y categorías de ocupación. <br>
+Análisis: Cálculo de la brecha salarial bruta y ajustada por horas trabajadas y nivel de instrucción. <br>
 Carga/Visualización: Exportación de resultados a un Dashboard interactivo en Tableau.
 
 ### Hallazgos Claves
-Brecha Promedio: Se identificó una brecha salarial del XX% a nivel nacional.
-Sectores Críticos: El sector de Minería presenta la brecha más alta, mientras que Tecnología muestra una tendencia a la reducción.
-Efecto Educación: A mayor nivel educativo, la brecha tiende a [aumentar/disminuir] según los datos procesados.
+• Brecha Promedio: Se identificó una brecha salarial del XX% a nivel nacional. <br>
+• Sectores Críticos: El sector de Minería presenta la brecha más alta, mientras que Tecnología muestra una tendencia a la reducción. <br>
+• Efecto Educación: A mayor nivel educativo, la brecha tiende a [aumentar/disminuir] según los datos procesados.
 
 ### Estructura del Repositorio
-/data: Diccionarios de datos y fuentes.
-/notebooks: Jupyter Notebooks con el Análisis Exploratorio (EDA).
-/scripts: Scripts de Python para la automatización del proceso.
+• /data: Diccionarios de datos y fuentes. <br>
+• /notebooks: Jupyter Notebooks con el Análisis Exploratorio (EDA). <br>
+• /scripts: Scripts de Python para la automatización del proceso. <br>
 
 ### Dashboard y gráficos estadísticos.
 
@@ -38,3 +39,7 @@ Efecto Educación: A mayor nivel educativo, la brecha tiende a [aumentar/disminu
     python main.py
     Use code with caution.
 ```
+### Fuentes
+•  <br>
+•  <br>
+• 
