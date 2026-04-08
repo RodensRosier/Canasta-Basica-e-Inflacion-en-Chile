@@ -36,10 +36,9 @@ Carga/Visualización: Exportación de resultados a un Dashboard interactivo en T
     git clone https://github.com
     cd brecha-salarial-chile
     pip install -r requirements.txt
-    python main.py
-    Use code with caution.
+    python script.py
 ```
 ### Fuentes
-•  <br>
+• INE Chile <br>
 •  <br>
 • 
