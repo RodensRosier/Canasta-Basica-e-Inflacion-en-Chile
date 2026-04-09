@@ -5,13 +5,13 @@ Análisis de la variación de la canasta básica y ajuste de la inflación (2016
 **• Lenguaje de programación:** Python 3.10 <br>
 **• Librerías de Análisis:** Pandas, NumPy <br>
 **• Visualización:** Tableau <br>
-**• Entorno Cloud:** Google BigQuery (para el procesamiento masivo).
+**• Entorno Cloud:** GCP (Google Cloud Platform) BigQuery para el procesamiento masivo.
 
 ### Metodología (Pipeline ETL)
 **• Extracción:** Obtención de microdatos desde el portal de datos abiertos del INE Chile. <br>
 **• Transformación (Limpieza):** Tratamiento de valores nulos y registros atípicos (outliers) y normalización de variables de ingresos y categorías de ocupación. <br>
-**Análisis:** Cálculo de la brecha salarial bruta y ajustada por horas trabajadas y nivel de instrucción. <br>
-**Carga/Visualización:** Exportación de resultados a un Dashboard interactivo en Tableau.
+**• Análisis:** Cálculo de la brecha salarial bruta y ajustada por horas trabajadas y nivel de instrucción. <br>
+**• Carga/Visualización:** Exportación de resultados a un Dashboard interactivo en Tableau.
 
 ### Hallazgos Claves
 **• Brecha Promedio:** Se identificó una brecha salarial del XX% a nivel nacional. <br>
@@ -34,6 +34,6 @@ Análisis de la variación de la canasta básica y ajuste de la inflación (2016
     python script.py
 ```
 ### Fuentes
-**• INE Chile:** . <br>
+**• INE Chile:** <br>
 **• ...** <br>
 **• ...**
