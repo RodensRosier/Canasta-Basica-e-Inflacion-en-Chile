@@ -1,5 +1,5 @@
 # Canasta Básica e Inflación en Chile 
-### Análisis de la variación de la canasta básica y ajuste de la inflación (2016-2026)
+Análisis de la variación de la canasta básica y ajuste de la inflación (2016-2026).
 
 ### Stack Tecnológico
 **• Lenguaje de programación:** Python 3.10 <br>
@@ -35,5 +35,5 @@
 ```
 ### Fuentes
 **• INE Chile:** . <br>
-**• ...:** . <br>
-**• ...:** .
+**• ...** <br>
+**• ...**
