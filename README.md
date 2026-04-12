@@ -1,6 +1,18 @@
 # Canasta Básica e Inflación en Chile 
 Análisis de la variación de la canasta básica y ajuste de la inflación (2016-2026).
 
+### Cómo Ejecutar el Proyecto
+```
+    git clone https://github.com
+    cd brecha-salarial-chile
+    pip install -r requirements.txt
+    python script.py
+```
+### Fuentes
+**• INE Chile** <br>
+**• ...** <br>
+**• ...**
+
 ### Stack Tecnológico
 **• Lenguaje de programación:** Python 3.10, SQL. <br>
 **• Librerías de Análisis:** Pandas, NumPy. <br>
@@ -25,15 +37,3 @@ Análisis de la variación de la canasta básica y ajuste de la inflación (2016
 
 ### Dashboard y gráficos estadísticos.
 <br>
-
-### Cómo Ejecutar el Proyecto
-```
-    git clone https://github.com
-    cd brecha-salarial-chile
-    pip install -r requirements.txt
-    python script.py
-```
-### Fuentes
-**• INE Chile** <br>
-**• ...** <br>
-**• ...**
